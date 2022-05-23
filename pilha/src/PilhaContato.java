@@ -1,3 +1,5 @@
+package pilha.src;
+
 public class PilhaContato {
     private Contato vetor[];
     private int topo;
